@@ -12,3 +12,12 @@ h2{
 p{
     font-size: 18px;
 }
+
+.learning {
+    background-color: #f0f4f8;
+    padding: 20px;
+}
+
+.learning h2 {
+    color: #805ad5;
+}
